@@ -1,3 +1,6 @@
+const query =
+require("../utils/query");
+
 const getDashboardStats =
 async ()=>{
 

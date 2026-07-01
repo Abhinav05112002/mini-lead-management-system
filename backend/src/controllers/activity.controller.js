@@ -1,3 +1,6 @@
+const activityService =
+require("../services/activity.service");
+
 exports.getLogs =
 async (req,res)=>{
 
